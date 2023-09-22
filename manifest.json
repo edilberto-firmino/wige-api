@@ -1,6 +1,6 @@
 {
   "short_name": "Instalar App",
-  "name": "Create React App Sample",
+  "name": "WIGE",
   "icons": [
     {
       "src": "/favicon.png",
@@ -8,8 +8,8 @@
       "type": "image/png"
     },
     {
-      "src": "favicon.png", 
-      "sizes": "196x196", 
+      "src": "favicon.png",
+      "sizes": "196x196",
       "type": "image/png",
       "purpose": "maskable"
     }
@@ -17,5 +17,17 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "description": "esse é um PWA",
+  "id": "WIGE",
+  "related_applications": [
+    {
+      "platform": "chrome_web_store",
+      "url": "https://edilbertofirmino.vercel.app/#/",
+      "id": ""
+    }
+  ],
+  "categories": [
+    "business"
+  ]
 }
