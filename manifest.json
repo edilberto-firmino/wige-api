@@ -17,6 +17,11 @@
         {
           "src": "https://pwabuilder.com/assets/icons/icon_192.png",
           "sizes": "192x192"
+        },
+        {
+          "src": "https://pwabuilder.com/assets/icons/icon_maskable.png", 
+          "sizes": "192x192",
+          "purpose": "maskable"
         }
       ]
     }
